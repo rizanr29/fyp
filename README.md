@@ -25,13 +25,25 @@ Final project documentation can be found in the `Documents/` folder:
 - Technical Paper (PDF)
 
 ## ⚙️ Technologies Used
-Python 3.10
+- Ultralytics YOLOv8 – Pose estimation model
 
-Ultralytics YOLOv8
+- TensorRT – For optimized inference with .engine files
 
-Multiprocessing for parallel data processing
+- PyTorch – Model backend and tensor computations
 
-OpenCV for image and video handling
+- Multiprocessing – Parallel processing of frames
+
+- OpenCV – Video input/output and image operations
+
+- Streamlit – Interactive performance dashboard
+
+- Plotly – For dynamic graphs and charts
+
+- Pandas / NumPy – Data manipulation and numerical analysis
+
+- Google Sheets API (gspread + oauth2client / google-auth) – Logging session data
+
+- Pynvml / psutil – Monitoring GPU/CPU usage
 
 ## 🔒 Sensitive Files
 
