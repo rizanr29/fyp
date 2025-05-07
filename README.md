@@ -54,5 +54,3 @@ Some files (e.g., large model weights, keys) are excluded or removed due to size
 This project is for academic purposes and not intended for commercial use. Contact the author for more information.
 
 ---
-
-Let me know if you want to add author info, badges, or usage instructions!
